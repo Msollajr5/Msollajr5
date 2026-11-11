@@ -85,41 +85,17 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Msollajr5&theme=tokyonight" height="180" alt="GitHub Stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Msollajr5&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" height="175" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Msollajr5&theme=tokyonight" height="180" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Msollajr5&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" height="175" alt="Top Languages"/>
 
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Msollajr5&theme=tokyonight" width="95%" alt="Profile Details"/>
-
-</div>
+<br/>
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Msollajr5&theme=tokyonight&hide_border=true&stroke=7CF7FF&fire=FF6B6B&ring=7CF7FF" width="60%" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Msollajr5&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Erick's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Msollajr5&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -151,7 +127,7 @@
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Msollajr5&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=Msollajr5&label=Profile%20Views&color=70a5fd&style=for-the-badge)](https://github.com/Msollajr5)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
