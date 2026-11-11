@@ -12,10 +12,15 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/official_msollajr)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@msollajr)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/official_msollajr)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@msollajr)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/official_msollajr)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ericques.msollah?mibextid=LQQJ4d)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/91cxgk)
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=000000)](https://www.snapchat.com/add/msollajr)
+[![Linktree](https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Msollajr)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Msollajr5)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickmsolla0@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Msollajr)
 
 </div>
 
@@ -80,21 +85,21 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Msollajr&theme=tokyonight" height="180" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Msollajr5&theme=tokyonight" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Msollajr&theme=tokyonight" height="180" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Msollajr5&theme=tokyonight" height="180" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Msollajr&theme=tokyonight" width="95%" alt="Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Msollajr5&theme=tokyonight" width="95%" alt="Profile Details"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Msollajr&theme=tokyonight&hide_border=true&stroke=7CF7FF&fire=FF6B6B&ring=7CF7FF" width="60%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Msollajr5&theme=tokyonight&hide_border=true&stroke=7CF7FF&fire=FF6B6B&ring=7CF7FF" width="60%" alt="GitHub Streak"/>
 
 </div>
 
@@ -104,7 +109,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Msollajr&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)
+![](https://github-profile-trophy.vercel.app/?username=Msollajr5&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)
 
 </div>
 
@@ -114,7 +119,7 @@
 
 <div align="center">
 
-[![Erick's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Msollajr&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Erick's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Msollajr5&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -125,9 +130,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Msollajr/Msollajr/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Msollajr/Msollajr/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Msollajr/Msollajr/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Msollajr5/Msollajr5/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Msollajr5/Msollajr5/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Msollajr5/Msollajr5/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -146,7 +151,7 @@
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Msollajr&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Msollajr5&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
